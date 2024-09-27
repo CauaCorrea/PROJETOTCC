@@ -1,0 +1,36 @@
+#wrap10{
+    position: relative;
+    z-index: -1;
+}
+
+#Bebidas-1{
+    width: 90%;
+    background-color: #291D17;
+    height: 77vh;
+    box-sizing: border-box;
+    border-radius: 50px;
+    position: relative;
+    top: 100%;
+    left: 50%;
+    transform: translate(-50%, 7%);
+    font-family:sans-serif ;
+    display: flex;
+    align-items: center;
+    
+    
+    
+    
+}
+.Bebidas-2{
+    position: relative;
+    color: #FFF4CB;
+    padding: 00px 90px;
+}
+.Bebidas-2 h1{
+    font-size: 80px;
+    
+}
+.Bebidas-2 p{
+    color: #FFFF;
+    font-size: 25px;
+}
